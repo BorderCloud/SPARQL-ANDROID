@@ -23,7 +23,7 @@ Examples : look at [com.bordercloud.sparqlAndroidApp.MainActivity](https://githu
 
 > Alternatively you can also add the **GPR_USER** and **GPR_API_KEY** values to your environment variables on you local machine or build server to avoid creating a github properties file
 
-## Step 3: Update build.gradle inside the application
+### Step 3: Update build.gradle inside the application
 - Add the following code to **build.gradle** inside the application module that will be using the library published on GitHub Packages Repository
 
 ```markdown
@@ -65,3 +65,5 @@ android {
     }
 }
 ```
+
+More details : [Sample Android Library Publishing to GitHub Package Registry](https://github.com/enefce/AndroidLibraryForGitHubPackagesDemo/blob/master/README.md)
