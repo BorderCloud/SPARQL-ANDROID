@@ -1,3 +1,5 @@
+![Gradle Package](https://github.com/BorderCloud/SPARQL-ANDROID/workflows/Gradle%20Package/badge.svg)
+
 # SPARQL-ANDROID
 
 This project uses the [SPARQL-JAVA](https://github.com/BorderCloud/SPARQL-JAVA) project as a basis.
