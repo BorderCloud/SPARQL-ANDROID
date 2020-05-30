@@ -1,0 +1,3 @@
+include ':SPARQL-ANDROID-MODULE'
+include ':app'
+rootProject.name = "SPARQL-ANDROID"
